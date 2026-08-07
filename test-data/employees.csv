@@ -1,0 +1,6 @@
+EmployeeID,FirstName,LastName,Department,Role,Manager,StartDate,Location,License
+EMP10001,John,Smith,Finance,Analyst,Sarah Johnson,2026-09-01,New York,E3
+EMP10002,Maria,Garcia,Risk,Manager,David Brown,2026-09-08,Chicago,E5
+EMP10003,James,Williams,Customer Service,Representative,Lisa Davis,2026-09-15,Dallas,E3
+EMP10004,Emily,Johnson,IT,Engineer,Michael Wilson,2026-09-22,New York,E5
+EMP10005,Robert,Lee,Finance,Manager,Sarah Johnson,2026-10-01,Chicago,E5
